@@ -16,7 +16,7 @@ function Footer() {
         <ul className="text-sm md:text-base space-y-2">
           <li>contact@purespaces.in</li>
           <li>Phone: +91 98862 12000</li>
-          <li>#477, 11th Cross, Sadashivnagar, Bangalore 560080</li>
+          <li>#478, 11th Cross, Sadashivnagar, Bangalore 560080</li>
         </ul>
       </div>
     </div>
